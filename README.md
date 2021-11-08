@@ -1,6 +1,7 @@
-# schoolbus
-## Description 
-Ironhack Project Number 1
+# bus-bonanza
+You'll be taking the kids to school. Pick up batteries along the way so you don't run out of it.
+
+# Ironhack Project Number 1
 
 # MVP (DOM - Canvas)
 - the bus moves horizontally
@@ -9,24 +10,21 @@ Ironhack Project Number 1
 - three lanes of traffic, other cars show up randomly
 
 # BACKLOG
+- make background move
 - add scoreboard
-- there are 4 kids to be picked up and dropped at school
-- add each kid's face to the bus window after pick up
-- if you press number 1 at any time something cool will happen
-- add smoke to the bus after an collision without kids
-- add kids crying screen if there's a collision with kids inside the bus
-- game canvas changes size according to the user's browser window
+- add sound effects
 
 # Data structure
-Classes and methods definition. Or functions.
+No classesl were used for this project
 
 # States
-None so far.
+None so far
 
 # Tasks
-Task definition in order of priority.
+Task definition in order of priority
 
 # Inspiration
 - [https://trex-runner.com/]
 - [https://gdsbrooks.github.io/cat-butt-disco/]
 - [https://monikageiger.github.io/egg-stealer/]|
+- [https://alekstana.github.io/the-game]
