@@ -53,7 +53,7 @@ let trees = new Image ();
 trees.src = './Images/trees.png'
 
 let bus = new Image();
-bus.src = "./images/bus.png";
+bus.src = "./Images/bus.png";
 
 let charger = new Image ();
 charger.src = './Images/charger.png'
