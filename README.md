@@ -15,7 +15,7 @@ You'll be taking the kids to school. Pick up batteries along the way so you don'
 - add sound effects
 
 # Data structure
-No classesl were used for this project
+No classes were used for this project
 
 # States
 None so far
