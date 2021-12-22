@@ -1,4 +1,4 @@
-# bus-bonanza
+# buszinga!
 You'll be taking the kids to school. Pick up batteries along the way so you don't run out of it.
 
 # Ironhack Project Number 1
